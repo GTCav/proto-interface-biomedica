@@ -1,0 +1,14 @@
+D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\bin\Debug\AudioPeak.exe.config
+D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\bin\Debug\AudioPeak.exe
+D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\bin\Debug\AudioPeak.pdb
+D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\bin\Debug\NAudio.dll
+D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\bin\Debug\ScottPlot.dll
+D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\bin\Debug\NAudio.xml
+D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\obj\Debug\AudioPeak.csproj.AssemblyReference.cache
+D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\obj\Debug\AudioPeak.Properties.Resources.resources
+D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\obj\Debug\AudioPeak.csproj.GenerateResource.cache
+D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\obj\Debug\AudioPeak.csproj.CoreCompileInputs.cache
+D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\obj\Debug\AudioPeak.csproj.CopyComplete
+D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\obj\Debug\AudioPeak.exe
+D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\obj\Debug\AudioPeak.pdb
+D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\obj\Debug\Proto.Form1.resources
