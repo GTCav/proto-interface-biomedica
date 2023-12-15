@@ -13,3 +13,33 @@ D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\bin\Debug\N
 D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\bin\Debug\ScottPlot.dll
 D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\bin\Debug\NAudio.xml
 D:\Dev\Csharp-Data-Visualization\dev\old\2019-06-07-audio-visualizer\obj\Debug\ProtoInterfaceBiomedica.csproj.CopyComplete
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\bin\Debug\AudioPeak.exe.config
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\bin\Debug\AudioPeak.exe
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\bin\Debug\AudioPeak.pdb
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\bin\Debug\NAudio.dll
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\bin\Debug\ScottPlot.dll
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\bin\Debug\NAudio.xml
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\obj\Debug\ProtoInterfaceBiomedica.csproj.AssemblyReference.cache
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\obj\Debug\Proto.Form1.resources
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\obj\Debug\AudioPeak.Form2.resources
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\obj\Debug\AudioPeak.Properties.Resources.resources
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\obj\Debug\ProtoInterfaceBiomedica.csproj.GenerateResource.cache
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\obj\Debug\ProtoInterfaceBiomedica.csproj.CoreCompileInputs.cache
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\obj\Debug\ProtoInterfaceBiomedica.csproj.CopyComplete
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\obj\Debug\AudioPeak.exe
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica\obj\Debug\AudioPeak.pdb
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\bin\Debug\AudioPeak.exe.config
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\bin\Debug\AudioPeak.exe
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\bin\Debug\AudioPeak.pdb
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\bin\Debug\NAudio.dll
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\bin\Debug\ScottPlot.dll
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\bin\Debug\NAudio.xml
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\obj\Debug\ProtoInterfaceBiomedica.csproj.AssemblyReference.cache
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\obj\Debug\Proto.Form1.resources
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\obj\Debug\AudioPeak.Form2.resources
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\obj\Debug\AudioPeak.Properties.Resources.resources
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\obj\Debug\ProtoInterfaceBiomedica.csproj.GenerateResource.cache
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\obj\Debug\ProtoInterfaceBiomedica.csproj.CoreCompileInputs.cache
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\obj\Debug\ProtoInterfaceBiomedica.csproj.CopyComplete
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\obj\Debug\AudioPeak.exe
+C:\Users\gsthi\OneDrive\Área de Trabalho\Docs\IFSC\2023.2\Projeto Itegrador II\repos\ProtoInterfaceBiomedica - bkp\obj\Debug\AudioPeak.pdb

@@ -89,19 +89,35 @@ namespace Proto
             }
         }
 
-
         private void BtnStart_Click(object sender, EventArgs e)
         {
+            //botões principais
+            btnStart.Enabled = false;
+            btnStop.Enabled = true;
+
+            //botões menu
+            abrirToolStripMenuItem.Enabled = false;
+            gravarToolStripMenuItem.Enabled = false;
+
             AudioMonitorInitialize(cbDevice.SelectedIndex);
         }
 
         private void BtnStop_Click(object sender, EventArgs e)
         {
+            //botões principais
+            btnStart.Enabled = true;
+            btnStop.Enabled = false;
+
+            //botões menu
+            abrirToolStripMenuItem.Enabled = true;
+            gravarToolStripMenuItem.Enabled = true;
+
             if (wvin != null)
             {
                 wvin.StopRecording();
                 wvin = null;
             }
+
         }
 
         private void Timer1_Tick(object sender, EventArgs e)
@@ -123,13 +139,24 @@ namespace Proto
 
             Form2 novaTela = new Form2(open);
             
+            //novaTela.MdiParent = this;
 
             // Exiba a nova tela
             novaTela.Show();
+            
         }
 
         private void gravarToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //botões principais
+            btnStart.Enabled = false;
+
+            //botões do menu
+            abrirToolStripMenuItem.Enabled = false;
+            gravarToolStripMenuItem.Enabled = false;
+            encerrarGravaçãoToolStripMenuItem.Enabled = true;
+            sairToolStripMenuItem.Enabled = false;
+
             gravar();
         }
 
@@ -155,9 +182,11 @@ namespace Proto
 
             writer = new WaveFileWriter(outputFileName, waveIn.WaveFormat);
 
+            AudioMonitorInitialize(cbDevice.SelectedIndex);
             waveIn.StartRecording();
 
-            MessageBox.Show("Gravando", "Gravação iniciada.", MessageBoxButtons.OKCancel);
+            recLabel.Text = "GRAVAÇÃO INICIADA";
+            recLabel.Visible = true;
         }
 
         private void Wave_DataAvailable_Writer(object sender, WaveInEventArgs e)
@@ -172,10 +201,12 @@ namespace Proto
 
         private void encerrarGravaçãoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            waveIn.StopRecording();
+            btnStart.Enabled = true;
 
-            if (outputFileName == null)
-                return;
+            abrirToolStripMenuItem.Enabled = true;
+            gravarToolStripMenuItem.Enabled = true;
+            encerrarGravaçãoToolStripMenuItem.Enabled = false;
+            sairToolStripMenuItem.Enabled = true;
 
             var processStartInfo = new ProcessStartInfo
             {
@@ -185,8 +216,27 @@ namespace Proto
 
             Process.Start(processStartInfo);
 
+            if (waveIn != null)
+            {
+                waveIn.StopRecording();
+                waveIn = null;
+            }
 
-            MessageBox.Show("Gravado", "Gravação encerrada.", MessageBoxButtons.OKCancel);
+            if (wvin != null)
+            {
+                wvin.StopRecording();
+                wvin = null;
+            }
+
+            if (outputFileName == null)
+                return;
+
+            recLabel.Visible = false;
+        }
+
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
     
